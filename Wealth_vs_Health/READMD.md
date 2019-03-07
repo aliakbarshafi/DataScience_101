@@ -1,3 +1,5 @@
+## Investigative Journalism
+
 The goal of this project is to support or refute the claim: income level is positively correlated to health. Pertinent well-being indicators may include diabetes and obesity rates, although the teams are encouraged to be creative about information sources. Public data sets are identified, and they should be viewed as a starting point.
 
 
